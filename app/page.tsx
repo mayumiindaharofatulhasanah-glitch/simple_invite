@@ -1,6 +1,6 @@
 export default function InvitationPage() {
   const event = {
-    title: "Ava & Noah's Garden Party",
+    title: "MAYUMI DAN SHAHRONI HIHI",
     subtitle: "You're invited!",
     date: "Saturday, 18 October 2025",
     time: "4:00 PM – 8:00 PM",
