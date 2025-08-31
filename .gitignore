@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+pnpm-lock.yaml
+
+# next / build
+.next/
+out/
+dist/
+
+# testing
+coverage/
+
+# logs & misc
+*.log
+.DS_Store
+
+# env
+.env
+.env.local
+.env.*.local
+
